@@ -26,4 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansovichea&show_icons=true&locale=en" alt="ansovichea" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansovichea&" alt="ansovichea" /></p>
-<p><img align="center" src="![image](https://github.com/user-attachments/assets/a9efad4e-609d-4116-8626-42360784db90)" ></p>
+<p><img align="center" src="https://github.com/user-attachments/assets/a9efad4e-609d-4116-8626-42360784db90" ></p>
